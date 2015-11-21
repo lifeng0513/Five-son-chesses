@@ -1,0 +1,32 @@
+.backdrop{
+	width:800px;
+	height:800px;
+	margin:50px auto;
+	border: 1px solid #CECBC6;
+    background-image: url(../img/2.jpg);
+	position: relative;
+}
+.hudie{
+   width:200px;
+   height:200px;
+   position:absolute;
+   bottom:0px;
+   right:0px;
+  
+}
+#sence{
+	width:600px;
+	height:600px;
+	margin:80px auto;
+    background:rgb(255,255,32,0.5);
+	position: relative;
+}
+.block{
+	float:left;
+	margin:0 1px 1px 0;
+	position: relative;
+	border-radius:50%;
+    z-index: 8884;
+    text-align: center;
+	
+}
